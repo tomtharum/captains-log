@@ -1,5 +1,5 @@
 ---
-title: Best Gaming PC build
+title: Best PC build
 description: There is a lot of things that make a self-built pc better including ...
 author: Tom, the author of all post here!
 date: 2022-04-13
@@ -33,7 +33,7 @@ layout: layouts/post.njk
   The Best Budget Gaming PC
  
   -CPU: AMD Ryzen 5 5600
-  -CPU Cooler: Stock Cooler
+  -CPU Cooler: Vetroo V5 CPU Air Cooler w/ 5 Heat Pipes 120mm PWM Processor 150W TDP Cooler
   -Motherboard: ASUS TUF Gaming B450M-PLUS II AMD AM4 (Ryzen 5000, 3rd Gen Ryzen microATX Gaming Motherboard
   -Ram: TEAMGROUP T-Force Vulcan Z DDR4 16GB Kit (2x8GB) 3200MHz
   -Storage: TEAMGROUP MP33 1TB SLC Cache 3D NAND TLC NVMe 1.3 PCIe Gen3x4 M.2 2280 Internal Solid State Drive SSD
@@ -43,12 +43,12 @@ layout: layouts/post.njk
   
   This PC is the budget pick for us but it can play most games at medium settings at around 60-100 frames.
  This is gonna be a decent PC for general usage. The stock cooler included in the box is fairly decent and 
- can handle a little light overclocking but not recommended. You can get some budget cooler like the Vetroo V5
- because this cpu can really get some good performance if overclocked.
+ can handle a little light overclocking but not recommended. You can overclock it to get some really good 
+ performance and the cooler I included here is gonna be able to handle it well.
  
   The Best No-GPU PC
   
-  -CPU: AMD Ryzen 7 5700g
+  -CPU: AMD Ryzen 7 5700G
   -CPU Cooler: beQuiet! BK024 Dark Rock Slim CPU Cooler
   -Motherboard: MSI B550-A PRO ProSeries Motherboard AMD AM4, DDR4
   -Ram: Patriot Viper 4 Blackout Series DDR4 16GB (2 x 8GB) 4400MHz Kit
@@ -62,12 +62,12 @@ layout: layouts/post.njk
   
   The Best Family PC Build
   
-  -CPU: AMD Ryzen 5 5600x
+  -CPU: AMD Ryzen 5 5600
   -CPU Cooler: Stock Cooler
-  -Motherboard: ASUS ROG Strix B450-F Gaming II AMD AM4
-  -Ram: Corsair Vengeance LPX 8GB (1x8GB) DDR4 3200 (PC4-25600) C16
+  -Motherboard: ASUS Prime B450M-A II AMD AM4 Micro-ATX
+  -Ram: Silicon Power Value Gaming DDR4 RAM 16GB (8GBx2) 3200MHz (PC4 25600) CL16 1.35V Desktop Memory Module
   -Storage: Kingston 480GB A400 M.2 Internal SSD
-  -GPU: Gigabyte Geforce GTX 1050 Ti 4GB GDDR5 128 Bit PCI-E Graphic Card (GV-N105TD5-4GD)
+  -GPU: ASUS TUF Gaming NVIDIA GeForce GTX 1650 OC Edition Graphics Card
   -PSU: Corsair CV450 
   -Case: Cooler Master MasterBox Q300L Micro-ATX Tower
   
@@ -76,7 +76,7 @@ layout: layouts/post.njk
   
   My Preference
   
-  -CPU: AMD Ryzen 7 5800x
+  -CPU: AMD Ryzen 7 5800X
   -CPU Cooler: NZXT Kraken Z73
   -Motherboard:  ASUS ROG Crosshair VIII Dark Hero AMD AM4 X570S
   -Ram: G.Skill Trident Z NEO Series 32GB (2 x 16GB) 288-Pin SDRAM DDR4 4000
