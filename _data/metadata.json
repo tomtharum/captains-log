@@ -1,9 +1,9 @@
 {
-  "title": "Captain's Log",
+  "title": "Tom's Daily",
   "url": "https://example.com/",
-  "description": "Yoho, mateys! I've been sailing the seven seas, and this is my story!",
+  "description": "Argh, I am here to guide you though many things!",
   "feed": {
-    "subtitle": "Yoho, mateys! I've been sailing the seven seas, and this is my story!",
+    "subtitle": "Argh, I am here to guide you though many things!",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
