@@ -1,7 +1,11 @@
 ---
 title: Is the AMD Ryzen 7 5800x3D good?
-img: /main.webp
-excerpt: AMD' new cpu really that good?
+description: Is AMD' new cpu really that good?
+author: Tom, I really like AMD cpu but is this one really good?
+date: 2022-04-12
+tags:
+  - second-tags
+layout: layouts/post.njk
 
 ---
 
