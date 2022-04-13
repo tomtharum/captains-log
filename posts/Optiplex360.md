@@ -1,7 +1,11 @@
 ---
 title: Dell Optiplex 360
-img: /main.webp
-excerpt: 
+description: This old PC is once my old aunt PC
+author: Tom, I like computers!
+date: 2022-02-28
+tags:
+  - second-tags
+layout: layouts/post.njk
 
 ---
 
