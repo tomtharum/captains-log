@@ -4,6 +4,8 @@ description: There is a lot of things that make a self-built pc better including
 author: Tom, the author of all post here!
 date: 2022-04-13
 tags: 
+  - second-tag
+layout: layouts/post.njk
 
 --- 
  
