@@ -1,6 +1,11 @@
 ---
 title: Thinkpad T61
 description: The Thinkpad is an iconic laptop that many people will remember...
+author: Tom
+date: 2021-12-04
+tags:
+  - second-tags
+layouts: layouts/post.njk
 
 ---
 
