@@ -1,10 +1,11 @@
 ---
 title: Raspberry Pi
-img: /main.webp
-excerpt: The amazing SBC...
+description: The amazing SBC...
+author: Tom
+date: 2022-01-23
+
 
 ---
-
     Hello, it's Tom back here I am going to be talking about the amazing SBC (single-board-computer) Raspberry Pi.
  Raspberry Pi is a very cool and cheap peice of tech that you can do so many things with it such as, making a 
  robot, personal computer, emulate some retro games and can even be used to make a super secure wifi router. But 
