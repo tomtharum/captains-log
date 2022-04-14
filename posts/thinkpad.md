@@ -1,7 +1,6 @@
 ---
 title: Thinkpad T61
-img: /main.webp
-excerpt: 
+description: The Thinkpad is an iconic laptop that many people will remember...
 
 ---
 
@@ -14,4 +13,6 @@ List of Specs:
  - 2.4GHz Intel Core 2 Duo T7700
  - 160 WD SATA HDD 7200rpm
  - 256MB Nvidia Quadro FX 570M
-I personnaly think this laptop is cool and possibly has a better keyboard than the more modern Thinkpads and other laptop.
+ I personnaly think this laptop is cool and possibly has a better keyboard than the more modern Thinkpads and other laptop.
+This specific model is also known to be super tough and durable. But my dad said that the only problem was the dim screen.
+
