@@ -1,7 +1,11 @@
 ---
 title: Best Mechanical Keyboard
 img: /main.webp
-excerpt: Choosing a mechanical keyboard is...
+description: Mechanical keyboards are great for feel and sound...
+author: Tom
+tag:
+  - second-tags
+layout: layouts/post.njk
 
 ---
 
