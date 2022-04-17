@@ -1,7 +1,12 @@
 ---
 title: Why mechanical keyboards?
-img: /main.webp
-excerpt: Why is mechanical keyboard better?...
+description: Why is mechanical keyboard better?...
+author: Tom
+date: 2022-03-16
+tags: 
+  - second-tags
+layout: layouts/post.njk
+
 
 ---
 
