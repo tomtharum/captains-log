@@ -22,7 +22,7 @@ layout: layouts/post.njk
  -Motherboard: ASUS TUF Gaming Z690-Plus WiFi D4 LGA1700(Intel 12th Gen) ATX gaming motherboard
  -Ram: G.SKILL F4-3600C16D-16GTZR 16 GB
  -Storage: Samsung (MZ-V8V250B/AM) 980 SSD 250GB,Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
- -GPU: MSI Gaming GeForce RTX 3050 8GB GDRR6
+ -GPU: EVGA GeForce RTX 3050 XC GAMING, 08G-P5-3553-KR
  -Case: MSI MAG Series FORGE 100R
  -PSU: EVGA 700 GD, 80+ GOLD 700W
   
@@ -37,7 +37,7 @@ layout: layouts/post.njk
   -Motherboard: ASUS TUF Gaming B450M-PRO S AMD AM4
   -Ram: TEAMGROUP T-Force Vulcan Z DDR4 16GB Kit (2x8GB) 3200MHz
   -Storage: TEAMGROUP MP33 1TB SLC Cache 3D NAND TLC NVMe 1.3 PCIe Gen3x4 M.2 2280 Internal Solid State Drive SSD
-  -GPU: MSI Gaming AMD Radeon RX 6600 128-bit 8GB GDDR6
+  -GPU: EVGA GeForce RTX 3050 XC GAMING, 08G-P5-3553-KR
   -PSU: Corsair CV Series, CV550, 550 Watt, 80+ Bronze Certified
   -Case: Thermaltake V200 Tempered Glass RGB Edition 12V MB Sync Capable ATX Mid-Tower Chassis
   
@@ -82,7 +82,7 @@ layout: layouts/post.njk
   -Motherboard: GIGABYTE B550I AORUS PRO AX Gaming Motherboard
   -Ram: Patriot Viper Steel DDR4 16GB (2 x 8GB) 4400MHz Performance Memory Kit
   -Storage: SAMSUNG 980 PRO SSD 1TB PCIe 4.0 NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive
-  -GPU: ASUS Dual NVIDIA GeForce RTX 3050 OC Edition Gaming Graphics Card
+  -GPU: EVGA GeForce RTX 3050 XC GAMING, 08G-P5-3553-KR
   -PSU: EVGA 700 GD, 80+ GOLD 700W
   -Case: Cooler Master NR200 White SFF Small Form Factor Mini-ITX Case
   
