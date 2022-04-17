@@ -1,6 +1,5 @@
 ---
 title: Best Mechanical Keyboard
-img: /main.webp
 description: Mechanical keyboards are great for feel and sound...
 author: Tom
 tag:
