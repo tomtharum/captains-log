@@ -105,3 +105,7 @@ layout: layouts/post.njk
   and watching videos. I just put some overkill parts to future-proofing it so I don't need to upgrade it soon because most 
   computers get obsolete in just a few years. 
   
+   And if you wonder where to buy these pc components you can use online shops like Newegg, BestBuy, or if you are in the US I 
+  highly recommend you to go to Micro Center because they have great customer service, great deals and they have have 25 locations.
+  You can check them out by typing in microcenter.com in your browser.
+  
