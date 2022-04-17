@@ -2,6 +2,7 @@
 title: Best Mechanical Keyboard
 description: Mechanical keyboards are great for feel and sound...
 author: Tom
+date: 2022-04-09
 tag:
   - second-tags
 layout: layouts/post.njk
